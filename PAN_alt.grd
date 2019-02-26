@@ -1,0 +1,27 @@
+[general] 
+creator=R package 'raster' 
+created= 2011-11-12 14:40:02 
+[georeference] 
+nrows= 312 
+ncols= 732 
+xmin= -83.2 
+ymin= 7.1 
+xmax= -77.1 
+ymax= 9.7 
+projection= +proj=longlat +ellps=WGS84 
+[data] 
+datatype= INT2S 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= -4 
+maxvalue= 3368 
+nodatavalue= -9999 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= PAN_alt 
+history=  
